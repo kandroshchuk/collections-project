@@ -1,6 +1,6 @@
-#Basic Project
+#Collections Project
 
-*Simple Java Project*
+*Collections Java Project*
 
 **Java 7
 
